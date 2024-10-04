@@ -15,3 +15,4 @@ Como no se que poner haré una lista de mis cosas preferidas
 - [x] Leer un libro 📖
 - [x] Jugar videojuegos 🎮
 - [ ] Ver series 📺
+- [x] Dibujar ✏️
