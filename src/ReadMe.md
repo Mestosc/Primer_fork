@@ -7,4 +7,5 @@ Como no se que poner haré una lista de mis cosas preferidas
 - Sushi 🍣<sub>un poco obsesionada con esto</sub>
 - Lasaña 
 - Tarta de queso
+>[!Important]
 
