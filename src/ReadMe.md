@@ -14,3 +14,4 @@ Como no se que poner haré una lista de mis cosas preferidas
 ## Pasatiempos que normalmente hago durante el día
 - [x] Leer un libro 📖
 - [x] Jugar videojuegos 🎮
+- [ ] Ver series 📺
