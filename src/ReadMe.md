@@ -16,4 +16,4 @@ Como no se que poner haré una lista de mis cosas preferidas
 - [x] Jugar videojuegos 🎮
 - [ ] Ver series 📺
 - [x] Dibujar ✏️
-## Y eso es todo por el momento,
+## Y eso es todo por el momento :)
