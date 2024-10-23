@@ -24,7 +24,7 @@ Es muy adorable
 Este es mi codigo :)
 ```
 
-El profesor dijo de añadir codigo ya que sera necesario para documentar te añado el siguiente codigo como ejemplo:
+Este es un codigo de ejemplo
 
 ```java
 String[] pruebas = {"Nacimiento", "Lapiz", "Testigo ocular", "Cápsula vacía"};
