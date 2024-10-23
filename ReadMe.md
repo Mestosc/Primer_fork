@@ -23,3 +23,15 @@ Es muy adorable
 ```
 Este es mi codigo :)
 ```
+
+El profesor dijo de añadir codigo ya que sera necesario para documentar te añado el siguiente codigo como ejemplo:
+
+```java
+String[] pruebas = {"Nacimiento", "Lapiz", "Testigo ocular", "Cápsula vacía"};
+
+for (int i = 0; i < pruebas.length; i++) {
+        System.out.println("Examinando la prueba: " + pruebas[i]);
+}
+
+```
+Este codigo me lo dio ChatGPT aun no he podido comprender si funciona
