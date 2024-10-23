@@ -9,7 +9,8 @@ Como no se que poner haré una lista de mis cosas preferidas
 - Tarta de queso
 >[!Important]
 > Cualquier pasta me gusta :)
-## Personaje Sanrio favorito 
+## Personaje Sanrio favorito
+Es muy adorable
 ![pomponpurin](https://i.pinimg.com/736x/07/8c/5d/078c5d1e307d741a5a7bfc66a9964897.jpg)
 ## Pasatiempos que normalmente hago durante el día
 - [x] Leer un libro 📖
@@ -20,5 +21,5 @@ Como no se que poner haré una lista de mis cosas preferidas
 ![gatolairameconsume](https://media.tenor.com/GTCSlk5h3NsAAAAj/motion-cat-transparent.gif)
 
 ```
-este es mi codigo :)
+Este es mi codigo :)
 ```
